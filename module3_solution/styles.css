@@ -13,6 +13,14 @@ body{
 	margin-left: 20px;
 	border: 2px solid #3F0C1F;
 }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #61122F;
+	overflow: visible;
+}
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -30px; 
+}
 .navbar-brand h1 {
 	font-family: 'lora', serif;
 	color:#333;
